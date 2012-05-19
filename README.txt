@@ -5,7 +5,7 @@ This is an optional menu block is available showing how much of various currenci
 It requires the main SLOODLE module:
 https://github.com/sloodle/moodle-mod_sloodle
 
-It is installed under the blocks/ directory of your Moodle site.
+It should be installed under the blocks/ directory of your Moodle site.
 
 See http://www.sloodle.org for more information, and post any questions or comments in the forums there.
 
